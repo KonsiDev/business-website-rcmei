@@ -18,14 +18,10 @@ metadata:
   openGraph:
     site_name: Konsultoria Financeira
     images:
-      - url: '~/assets/images/default.png'
+      - url: '~/assets/images/default .png'
         width: 1200
         height: 628
     type: website
-  twitter:
-    handle: '@onwidget'
-    site: '@onwidget'
-    cardType: summary_large_image
 
 i18n:
   language: pt-BR
