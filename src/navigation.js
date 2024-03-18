@@ -1,6 +1,6 @@
 export const headerData = {
   links: [],
-  actions: [{ text: 'Especialista', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  actions: [{ text: 'Especialista', href: 'https://api.whatsapp.com/send?phone=5511950759607', target: '_blank' }],
 };
 
 export const footerData = {
